@@ -45,6 +45,7 @@ The schema is designed to ensure data integrity, scalability, and query efficien
 - fines
 
 Each table represents a core business entity found in real library systems. 
+
 ![image](https://github.com/kovidanand/SQL-Library_Management_Analysis_P2/blob/main/ERD.pgerd)
 
 ## Analytical Use Cases with Queries
