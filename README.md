@@ -1,4 +1,6 @@
 # Library Management System – SQL Analytics Project
+![image](https://github.com/kovidanand/SQL-Library_Management_Analysis_P2/blob/main/library.jpg)
+
 ## Overview
 
 This project implements a relational Library Management System and applies SQL analytics to evaluate library operations, 
